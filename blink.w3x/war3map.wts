@@ -1,0 +1,121 @@
+﻿STRING 1
+{
+Blink 1.0
+}
+
+STRING 2
+{
+2-6
+}
+
+STRING 3
+{
+Blink to eternity!
+}
+
+STRING 4
+{
+Baradé
+}
+
+STRING 5
+{
+Player 1
+}
+
+STRING 7
+{
+Player 2
+}
+
+STRING 8
+{
+Player 3
+}
+
+STRING 9
+{
+Player 4
+}
+
+STRING 10
+{
+Player 5
+}
+
+STRING 11
+{
+Player 6
+}
+
+STRING 12
+{
+Players
+}
+
+STRING 13
+// Units: E000 (Wisp), Name (Name)
+{
+Wisp
+}
+
+STRING 14
+// Abilities: A000 (Blink), Name (Name)
+{
+Blink
+}
+
+STRING 15
+// Abilities: A000 (Blink), Tip (Tooltip - Normal)
+{
+Blink
+}
+
+STRING 16
+// Abilities: A000 (Blink), Ubertip (Tooltip - Normal - Extended)
+{
+Short distance teleportation that allows the hero to move in and out of combat.
+}
+
+STRING 17
+// Abilities: A000 (Blink), Hotkey (Hotkey - Normal)
+{
+B
+}
+
+STRING 18
+{
+Start:
+}
+
+STRING 19
+{
+Hunt
+}
+
+STRING 20
+{
+The hunter won the round!
+}
+
+STRING 21
+// Units: E000 (Wisp), Propernames (Proper Names)
+{
+Wisp
+}
+
+STRING 22
+{
+end by time
+}
+
+STRING 23
+{
+Score
+}
+
+STRING 24
+{
+Start with more than one player!
+}
+
